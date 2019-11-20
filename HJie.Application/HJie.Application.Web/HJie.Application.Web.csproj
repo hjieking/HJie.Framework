@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\HJie.Lib\HJie.Lib.Server\HJie.Lib.Server.csproj" />
     <ProjectReference Include="..\..\HJie.Lib\HJie.Lib.Util\HJie.Lib.Util.csproj" />
   </ItemGroup>
 

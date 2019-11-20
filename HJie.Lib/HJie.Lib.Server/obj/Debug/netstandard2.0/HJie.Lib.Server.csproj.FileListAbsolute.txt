@@ -1,0 +1,8 @@
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.deps.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.pdb

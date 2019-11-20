@@ -1,5 +1,7 @@
-﻿using HJie.Lib.Util;
+﻿using HJie.Lib.Server;
+using HJie.Lib.Util;
 using System;
+using System.Threading.Tasks;
 
 namespace HJie.Application.Web
 {
@@ -7,9 +9,11 @@ namespace HJie.Application.Web
     {
         static void Main(string[] args)
         {
-            var res = new AssemblyHelper().GetAllType();
-            Console.WriteLine(res);
-            Console.WriteLine("Hello World!");
+            Task.Run(async() =>
+            {
+                var res = new Server();
+                await res.Run();
+            });
             Console.ReadKey();
         }
     }
