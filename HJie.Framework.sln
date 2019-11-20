@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 框架基础类库", "01 框架基础类库", "{63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Lib.Util", "HJie.Lib\HJie.Lib.Util\HJie.Lib.Util.csproj", "{708DBCA4-0375-4E27-ABEF-0111345F65F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 ApplicationModule 应用模块", "02 ApplicationModule 应用模块", "{4E2889C6-D88B-4057-A8C8-5DE244B9A104}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Application 应用界面", "03 Application 应用界面", "{3A853EAC-2050-43B3-9C43-446CC552AFA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Application.Web", "HJie.Application\HJie.Application.Web\HJie.Application.Web.csproj", "{890F3344-D5F1-4699-84FA-99073694E6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJie.Lib.Server", "HJie.Lib\HJie.Lib.Server\HJie.Lib.Server.csproj", "{B96E2BF0-0276-4D0F-8A23-981578A52D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708DBCA4-0375-4E27-ABEF-0111345F65F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708DBCA4-0375-4E27-ABEF-0111345F65F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708DBCA4-0375-4E27-ABEF-0111345F65F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708DBCA4-0375-4E27-ABEF-0111345F65F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890F3344-D5F1-4699-84FA-99073694E6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890F3344-D5F1-4699-84FA-99073694E6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890F3344-D5F1-4699-84FA-99073694E6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890F3344-D5F1-4699-84FA-99073694E6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{708DBCA4-0375-4E27-ABEF-0111345F65F6} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
+		{890F3344-D5F1-4699-84FA-99073694E6E5} = {3A853EAC-2050-43B3-9C43-446CC552AFA5}
+		{B96E2BF0-0276-4D0F-8A23-981578A52D13} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6692A673-630E-4B78-BD17-D5DC0B492900}
+	EndGlobalSection
+EndGlobal

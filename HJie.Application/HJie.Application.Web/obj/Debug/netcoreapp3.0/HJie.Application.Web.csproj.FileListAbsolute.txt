@@ -1,0 +1,14 @@
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.exe
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.deps.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.runtimeconfig.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.runtimeconfig.dev.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Application.Web.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Lib.Util.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\bin\Debug\netcoreapp3.0\HJie.Lib.Util.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.csproj.CopyComplete
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Application\HJie.Application.Web\obj\Debug\netcoreapp3.0\HJie.Application.Web.pdb
