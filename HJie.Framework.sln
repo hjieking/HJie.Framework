@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 框架基础类库", "01 框架基础类库", "{63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}"
 EndProject
@@ -13,7 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Application 应用界面
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Application.Web", "HJie.Application\HJie.Application.Web\HJie.Application.Web.csproj", "{890F3344-D5F1-4699-84FA-99073694E6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJie.Lib.Server", "HJie.Lib\HJie.Lib.Server\HJie.Lib.Server.csproj", "{B96E2BF0-0276-4D0F-8A23-981578A52D13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Lib.Server", "HJie.Lib\HJie.Lib.Server\HJie.Lib.Server.csproj", "{B96E2BF0-0276-4D0F-8A23-981578A52D13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HJie.Lib.MyBatis", "HJie.Lib\HJie.Lib.MyBatis\HJie.Lib.MyBatis.csproj", "{C03986EE-4C0E-4740-BDE7-5A26FA12949B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJie.Lib.EECore", "HJie.Lib\HJie.Lib.EECore\HJie.Lib.EECore.csproj", "{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96E2BF0-0276-4D0F-8A23-981578A52D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03986EE-4C0E-4740-BDE7-5A26FA12949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03986EE-4C0E-4740-BDE7-5A26FA12949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03986EE-4C0E-4740-BDE7-5A26FA12949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03986EE-4C0E-4740-BDE7-5A26FA12949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +53,8 @@ Global
 		{708DBCA4-0375-4E27-ABEF-0111345F65F6} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
 		{890F3344-D5F1-4699-84FA-99073694E6E5} = {3A853EAC-2050-43B3-9C43-446CC552AFA5}
 		{B96E2BF0-0276-4D0F-8A23-981578A52D13} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
+		{C03986EE-4C0E-4740-BDE7-5A26FA12949B} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
+		{86C71C34-E3F8-4809-8C94-0BE41BBCCDF6} = {63A149D6-8D74-4A63-B6DD-C2CFCB2215B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6692A673-630E-4B78-BD17-D5DC0B492900}

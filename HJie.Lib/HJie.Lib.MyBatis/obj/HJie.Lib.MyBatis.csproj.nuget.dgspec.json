@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {}
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.MyBatis\\HJie.Lib.MyBatis.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.MyBatis\\HJie.Lib.MyBatis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
-        "projectName": "HJie.Lib.Server",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.MyBatis\\HJie.Lib.MyBatis.csproj",
+        "projectName": "HJie.Lib.MyBatis",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.MyBatis\\HJie.Lib.MyBatis.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\obj\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.MyBatis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,10 +41,6 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.Server.Kestrel": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

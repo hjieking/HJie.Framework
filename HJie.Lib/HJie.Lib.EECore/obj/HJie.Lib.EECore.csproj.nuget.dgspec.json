@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {}
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
-        "projectName": "HJie.Lib.Server",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj",
+        "projectName": "HJie.Lib.EECore",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\obj\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EECore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,9 +41,13 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.Server.Kestrel": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.13, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
