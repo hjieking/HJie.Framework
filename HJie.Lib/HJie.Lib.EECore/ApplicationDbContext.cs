@@ -9,6 +9,7 @@ using System.Data;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Reflection;
 
 namespace HJie.Lib.EECore
 {
@@ -19,13 +20,15 @@ namespace HJie.Lib.EECore
         }
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<AspNetUser>(b =>
-            {
-                b.ToTable("AspNetUser");
-            });
+            //builder.Entity<AspNetUser>(b =>
+            //{
+            //    //b.ToTable("AspNetUser");
+            //});
             // 在 OnModelCreating 方法中加入以下代码
-            builder.ExecuteConfigurations("存放实体配置的程序集名称");
+            //builder.ExecuteConfigurations("HJie.Lib.EECore");
+            builder.AddEntityConfigurationsFromAssembly(Assembly.Load("HJie.Lib.EECore"));
             base.OnModelCreating(builder);
         }
+        public DbSet<AspNetUser> AspNetUsers { get; set; }
     }
 }

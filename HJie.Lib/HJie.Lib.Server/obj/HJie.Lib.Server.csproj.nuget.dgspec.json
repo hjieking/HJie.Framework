@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {}
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
+        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
         "projectName": "HJie.Lib.Server",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
+        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Server\\HJie.Lib.Server.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Server\\obj\\",
+        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

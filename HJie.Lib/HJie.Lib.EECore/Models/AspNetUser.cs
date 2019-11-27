@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace HJie.Lib.EECore.Models
 {
+    [Table("AspNetUser.Test.t")]
     public class AspNetUser
     {
         public Guid Id { get; set; }

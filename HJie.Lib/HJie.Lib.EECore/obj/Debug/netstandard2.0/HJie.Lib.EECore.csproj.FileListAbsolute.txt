@@ -3,3 +3,11 @@ D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EECore\bin\Debug\netstandard2.
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.csprojAssemblyReference.cache
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.AssemblyInfoInputs.cache
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\bin\Debug\netstandard2.0\HJie.Lib.EECore.deps.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\bin\Debug\netstandard2.0\HJie.Lib.EECore.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\bin\Debug\netstandard2.0\HJie.Lib.EECore.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EECore\obj\Debug\netstandard2.0\HJie.Lib.EECore.pdb
