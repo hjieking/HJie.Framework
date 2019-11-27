@@ -17,7 +17,7 @@ namespace HJie.Lib.EECore.Data
                 return; // DB has been seeded 
             }
 
-            context.AspNetUsers.Add(new AspNetUser { Name = "jesse" });
+            context.AspNetUsers.Add(new AspNetUser { Name = "jesse",AppKey="111" });
             context.SaveChanges();
         }
     }

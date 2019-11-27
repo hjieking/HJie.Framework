@@ -12,4 +12,10 @@
     <ProjectReference Include="..\HJie.Lib\HJie.Lib.EECore\HJie.Lib.EECore.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
