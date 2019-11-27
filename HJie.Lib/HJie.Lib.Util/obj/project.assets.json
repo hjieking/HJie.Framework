@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Util\\HJie.Lib.Util.csproj",
+      "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Util\\HJie.Lib.Util.csproj",
       "projectName": "HJie.Lib.Util",
-      "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Util\\HJie.Lib.Util.csproj",
+      "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Util\\HJie.Lib.Util.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.Util\\obj\\",
+      "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

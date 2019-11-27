@@ -1,0 +1,8 @@
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\bin\Debug\netstandard2.0\HJie.Lib.MyBatis.deps.json
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\bin\Debug\netstandard2.0\HJie.Lib.MyBatis.dll
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\bin\Debug\netstandard2.0\HJie.Lib.MyBatis.pdb
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\obj\Debug\netstandard2.0\HJie.Lib.MyBatis.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\obj\Debug\netstandard2.0\HJie.Lib.MyBatis.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\obj\Debug\netstandard2.0\HJie.Lib.MyBatis.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\obj\Debug\netstandard2.0\HJie.Lib.MyBatis.dll
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.MyBatis\obj\Debug\netstandard2.0\HJie.Lib.MyBatis.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {}
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {}
   },
   "projects": {
-    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
         "projectName": "HJie.Lib.Application.Web.Test",
-        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\obj\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj": {
-                "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj"
+              "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
+                "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj"
               }
             }
           }
@@ -47,7 +47,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.1, )"
             }
           },
           "imports": [
@@ -72,14 +78,14 @@
         }
       }
     },
-    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj": {
+    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj",
-        "projectName": "HJie.Lib.EECore",
-        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\HJie.Lib.EECore.csproj",
+        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
+        "projectName": "HJie.Lib.EfCore",
+        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EECore\\obj\\",
+        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,14 +95,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -107,17 +113,21 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[3.0.1, )"
             },
-            "NETStandard.Library": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[3.0.1, )"
             }
           },
           "imports": [
@@ -130,6 +140,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }

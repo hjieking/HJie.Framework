@@ -6,3 +6,11 @@ E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netst
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.pdb
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.dll
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.pdb
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.deps.json
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.dll
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\bin\Debug\netstandard2.0\HJie.Lib.Server.pdb
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.csprojAssemblyReference.cache
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.AssemblyInfoInputs.cache
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.AssemblyInfo.cs
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.dll
+D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.Server\obj\Debug\netstandard2.0\HJie.Lib.Server.pdb
