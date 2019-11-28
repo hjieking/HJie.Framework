@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {}
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
+        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
         "projectName": "HJie.Lib.Application.Web.Test",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
+        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\HJie.Lib.Application.Web.Test.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib.Application.Web.Test\\obj\\",
+        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib.Application.Web.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
-                "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj"
+              "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
+                "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
+        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
         "projectName": "HJie.Lib.EfCore",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
+        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\HJie.Lib.EfCore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore\\obj\\",
+        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

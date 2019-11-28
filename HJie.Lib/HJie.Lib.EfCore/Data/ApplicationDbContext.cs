@@ -21,5 +21,6 @@ namespace HJie.Lib.EfCore
             modelBuilder.AddEntityConfigurationsFromAssembly(Assembly.Load("HJie.Lib.EfCore"));
         }
         public DbSet<AspNetUser> AspNetUsers { get; set; }
+        public DbSet<SysUser> SysUsers { get; set; }
     }
 }

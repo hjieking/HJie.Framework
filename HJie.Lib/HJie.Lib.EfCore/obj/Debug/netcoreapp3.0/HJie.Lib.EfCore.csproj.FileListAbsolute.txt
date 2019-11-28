@@ -8,3 +8,13 @@ D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.dll
 D:\NetCoreStudty\HJie.Framework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.deps.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.runtimeconfig.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.runtimeconfig.dev.json
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib\HJie.Lib.EfCore\obj\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb

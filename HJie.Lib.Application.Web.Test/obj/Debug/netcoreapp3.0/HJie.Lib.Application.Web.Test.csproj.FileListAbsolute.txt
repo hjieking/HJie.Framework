@@ -1,6 +1,5 @@
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EECore.dll
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\HJie.Lib.Application.Web.Test.csprojAssemblyReference.cache
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\staticwebassets\HJie.Lib.Application.Web.Test.StaticWebAssets.Manifest.cache
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\staticwebassets\HJie.Lib.Application.Web.Test.StaticWebAssets.xml
@@ -31,7 +30,6 @@ E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EECore.pdb
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\HJie.Lib.Application.Web.Test.MvcApplicationPartsAssemblyInfo.cache
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\HJie.Lib.Application.Web.Test.csproj.CopyComplete
 E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\obj\Debug\netcoreapp3.0\HJie.Lib.Application.Web.Test.dll
@@ -86,3 +84,17 @@ D:\NetCoreStudty\HJie.Framework\HJie.Lib.Application.Web.Test\bin\Debug\netcorea
 D:\NetCoreStudty\HJie.Framework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
 D:\NetCoreStudty\HJie.Framework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.dll
 D:\NetCoreStudty\HJie.Framework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.dll
+E:\SummaryTechnicalPoints\HJieFramework\HJie.Lib.Application.Web.Test\bin\Debug\netcoreapp3.0\HJie.Lib.EfCore.pdb

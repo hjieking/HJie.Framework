@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj": {}
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj": {
+    "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj",
+        "projectUniqueName": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj",
         "projectName": "HJie.Lib.EfCore.Map.Web",
-        "projectPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj",
+        "projectPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\HJie.Lib.EfCore.Map.Web.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreStudty\\HJie.Framework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\obj\\",
+        "outputPath": "E:\\SummaryTechnicalPoints\\HJieFramework\\HJie.Lib\\HJie.Lib.EfCore.Map.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
